@@ -1,0 +1,11 @@
+.not-found {
+    a,
+    a:visited {
+        text-decoration: underline;
+        color: white;
+    }
+
+    a:hover {
+        color: $red;
+    }
+}
