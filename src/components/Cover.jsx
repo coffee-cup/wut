@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 
 import cool from 'cool-ascii-faces';
 
-const unsplashUrl = 'https://source.unsplash.com/random';
-const fadeInDelay = 1500;
+const unsplashUrl = 'https://source.unsplash.com/random/2560x1440';
+const fadeInDelay = 2000;
 
 const face = cool();
 
